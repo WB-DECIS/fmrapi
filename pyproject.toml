@@ -14,6 +14,10 @@ logging = "^0.4.9.6"
 pandas = "^2.2.2"
 
 [tool.poetry.dev-dependencies]
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.1.1"
+
 [tool.semantic_release]
 version_toml = [
     "pyproject.toml:tool.poetry.version",
