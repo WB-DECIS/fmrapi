@@ -2,7 +2,7 @@
 name = "fmrapi"
 version = "0.1.0"
 description = "A Python client to the Fusion Metadata Registry (FMR) API"
-authors = ["Tony Fujs"]
+authors = [Daniel Gil Sanchez", Tony Fujs"]
 license = "CC0 v1.0 Universal"
 readme = "README.md"
 
